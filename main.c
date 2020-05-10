@@ -31,7 +31,8 @@ float average(float a, float b, float c)
 
 int main()
 {
-  float v1, v2, v3, result;
+  float v1, v2, v3;   /* Input variables. */ 
+  float result;       /* Output variable. */
 
   v1 = 10;
   v2 = 20;
