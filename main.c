@@ -1,6 +1,9 @@
-/* main.c - <one-line-description>
+/* main.c - Calculate the average of three numbers.
+
    Copyright (c) <year>, <author(s)-name>  <email(s)>
+   
    This file is part of <project>
+   
    <project> is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
    the Free Software Foundation, either version 3 of the License, or
@@ -17,10 +20,14 @@
 
 #include <stdio.h>
 
+/* This function returns the arithmentic mean of a, b and c.*/
+
 float average(float a, float b, float c)
 {
   return 0;
 }
+
+/* This program outputs the average of three values. */
 
 int main()
 {
